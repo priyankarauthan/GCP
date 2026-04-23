@@ -51,4 +51,9 @@ Backup: Singapore
 
 6. 🌐 User Distribution  
 If users are global → consider multi-region setup
-Use load balancing across regions  
+Use load balancing across regions
+
+## 🌍 Why Use Multiple Regions?
+🛡️ 1. High Availability (App keeps running)
+
+If one region goes down (power outage, network issue), your app can still run from another region.
