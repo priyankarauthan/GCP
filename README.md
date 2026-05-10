@@ -1,4 +1,4 @@
-# GCP
+# Cloud
 
 
 ## ✅ What is a Region in GCP?
